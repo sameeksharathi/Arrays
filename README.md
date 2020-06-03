@@ -10,7 +10,7 @@ The second line contains N space-separated integers describing array A's element
 
 Constraints:
 
-1 <= N <= 1000
+1 <= N <= 1000 and 
 1 <= Ai <= 10000, where  is the  integer in the array.
 
 
